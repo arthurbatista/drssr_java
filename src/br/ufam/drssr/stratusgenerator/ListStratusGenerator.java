@@ -1,4 +1,4 @@
-package br.ufam.bigdata.foursquare.stratusgenerator;
+package br.ufam.drssr.stratusgenerator;
 
 import java.io.File;
 import java.io.FileWriter;

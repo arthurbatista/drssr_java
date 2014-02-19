@@ -1,4 +1,4 @@
-package br.ufam.bigdata.foursquare.dataset;
+package br.ufam.drssr.dataset;
 
 import java.util.HashMap;
 import java.util.Map;
